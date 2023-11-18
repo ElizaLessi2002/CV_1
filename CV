@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE-edge"/>
+        <meta name="viewport" content="width-decide-width, imitial-scale=1.0"/>
+        <title>Moje CV</title>
+
+        <link href="style.css" rel="stylesheet"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="wrapper">
+            <main>
+            <div class="main-description">
+            <h2 class="job-title">Studentka informatyki</h2>
+            <h1>Eliza Lesiewicz</h1>
+
+            <p class="description">
+            Jestem osobą bardzo zaangażowaną we wszystko czym się zajmuję. 
+            Posiadam otwarty umysł na nowości, wielu rzeczy się uczę. 
+            Jestem osobą pozytywną z krótkim, ale cennym doświadczeniem. 
+            Doskonale zajmuje się większością rzeczy związanych z Internetem. 
+            Należę do osób komunikatywnych i wyrozumiałych.
+            </p>
+            </div>
+
+            <div>
+                <h2 class="header-primary">Doświadczenie</h2>
+                <h3 class="job-name"><span class="highlight">Sprzedawca</span></h3>
+
+                <p class="job-date"> Listopad 2022 - Styczeń 2023 |   Łódź</p>
+                <ul class="job-list">
+                    <li>Circle K</li> 
+                </ul> 
+            </div>
+            <div>
+                <h3 class="job-name"><span class="highlight">Telemarketer</span></h3>
+
+                <p class="job-date"> Grudzień 2021  |   Łódź</p>
+                <ul class="job-list">
+                    <li>Telmon</li> 
+                </ul> 
+                
+            </div>
+            <div>
+                <h3 class="job-name"><span class="highlight">Sprzedawca</span></h3>
+
+                <p class="job-date"> Wrzesień - Listopad 2021  |   Wrocław</p>
+                <ul class="job-list">
+                    <li>Orlen</li> 
+                </ul> 
+                
+            </div>
+            <div>
+                <h3 class="job-name"><span class="highlight">Doradca klienta</span></h3>
+
+                <p class="job-date"> Czerwiec - Sierpień 2021  |   Wrocław</p>
+                <ul class="job-list">
+                    <li>The Vision Marcela Zielińska-Chendoszko</li> 
+                </ul> 
+                
+            </div>
+            <div>
+                <h3 class="job-name"><span class="highlight">Sprzedawca</span></h3>
+
+                <p class="job-date"> Czerwiec - Lipiec 2021  |   Zgorzelec</p>
+                <ul class="job-list">
+                    <li>Durum Kebab</li> 
+                </ul> 
+                
+            </div>
+            <div>
+                <h3 class="job-name"><span class="highlight">Doradca klienta</span></h3>
+
+                <p class="job-date"> Czerwiec 2021  |   Wrocław</p>
+                <ul class="job-list">
+                    <li>Fundacja Wielkiej Pomocy</li> 
+                </ul> 
+                
+            </div>
+            <div>
+                <h3 class="job-name"><span class="highlight">Specjalista</span></h3>
+
+                <p class="job-date"> 2020 - 2021  |   Łódź</p>
+                <ul class="job-list">
+                    <li>Souvre</li> 
+                </ul> 
+                
+            </div>
+            <div>
+                <h3 class="job-name"><span class="highlight">Specjalista</span></h3>
+
+                <p class="job-date"> Styczeń 2019 Styczeń 2020   |   Łódź</p>
+                <ul class="job-list">
+                    <li>Lyconet</li> 
+                </ul> 
+                
+            </div>
+
+            <div>
+                <h3 class="job-name"><span class="highlight">Specjalista</span></h3>
+
+                <p class="job-date"> Luty 2019 sierpień 2019  |   Łódź</p>
+                <ul class="job-list">
+                    <li>Juice plaice</li> 
+                </ul> 
+                
+            </div>
+            <div>
+                <h3 class="job-name"><span class="highlight">Specjalista</span></h3>
+
+                <p class="job-date"> Styczeń 2018 Styczeń 2019   |   Łódź</p>
+                <ul class="job-list">
+                    <li>Oriflame</li> 
+                </ul> 
+            </div>
+            <div>
+                <h3>Edukacja</h3>
+
+                <p class="job-date">2022 2026 |  Łódź</p>
+                <p class="job-list"> Akademia humanistyczno- ekonomiczna w Łodzi (w trakcie studiów)</p>
+                <ul class="job-list">
+                    <li>Inżynier Informatyk</li>
+                </ul>
+                 <p class="job-date">2021 2022   |  Łódź</p>
+                 <p class="job-list">  Liceum zaoczne cosinus nr  1</p>               
+                 <p class="job-date">2019 2021 |   Łódź</p>
+                  <p class="job-list" > Zespół szkół geodezyjno- technicznych nr 13</p>
+                <ul class="job-list">
+                    <li class="job-list">Szkoła bardzo dobrze rozwinięta pod względem podejścia do uczniów, 
+                    posiada wyposażenie do zajęć zawodowych, jak również wyposażenie w multimedia.</li>
+                </ul>
+                <p class="job-date"> 2015 2018   |   Łódź</p>
+                 <p class="job-list" >Publiczne gimnazjum nr 16 im. sybiraków</p>
+                <ul class="job-list">
+                    <li class="job-list">Szkoła bardzo dobrze prosperuje, uczy na wysokim poziomie, nauczyciele odpowiedni, 
+                        sale dostosowane do uczniów.</li>  
+                </ul>
+            </div>
+
+        </main>
+        <aside>
+            <img class="cv-photo" src="photo.jpg" width="370" alt="Zdjęcie ELizy Lesiewicz"/>
+            <div class="contact-block">
+                <h2 class="header-secondary">Kontakt</h2>
+                <p class="contact-links">
+                    <span class="bold">C: </span><a class="contact-links" href="tel:666 854 655">666 854 655</a> <br/>
+                    <span class="bold">E:</span><a class="contact-links" href="mailto: eliza20122002@wp.pl">eliza20122002@wp.pl</a>
+                </p>
+                    
+                    
+            </div>
+
+            <div class="tech-skills-block">
+                <h2 class="header-secondary">Umiejętności</h2>
+                <ul class="list-secondary">
+                    <li><span class="list-secondary-item">Znajomość social media</span></li>
+                    <li><span class="list-secondary-item">Podstawowe programy obsługiwania komputera</span></li>
+                    <li><span class="list-secondary-item">Komunikatywność</span></li>
+                    <li><span class="list-secondary-item">Sumienność</span></li>
+                    <li><span class="list-secondary-item">Angielski poziom A2</span></li>
+                    <li><span class="list-secondary-item">Pracowitość</span></li>
+                    <li><span class="list-secondary-item">Dokładność</span></li>
+                    <li><span class="list-secondary-item">Cierpliwość</span></li>
+                    <li><span class="list-secondary-item">Organizacja pracy</span></li>
+                    <li><span class="list-secondary-item">Kreatywność</span></li>
+                    <li><span class="list-secondary-item">Niemiecki poziom A1</span></li>
+                    <li><span class="list-secondary-item">Hiszpański poziom A1</span></li>
+                </ul>
+            </div>
+
+            <div class="contact-block">
+                <h2 class="header-secondary">Hobby</h2>
+                <ul class="list-secondary">
+                    <li><span class="list-secondary-item">Psychologia</span></li>
+                    <li><span class="list-secondary-item">Malarstwo</span></li>
+                    <li><span class="list-secondary-item">Pisanie książek</span></li>
+                    <li><span class="list-secondary-item">Informatyka</span></li>
+                    <li><span class="list-secondary-item">Pływanie</span></li>
+                    <li><span class="list-secondary-item">Bieganie</span></li>
+                    <li><span class="list-secondary-item">Hiszpański</span></li>
+                    <li><span class="list-secondary-item">Wspinaczka</span></li>
+                    <li><span class="list-secondary-item">Siatkówka</span></li>
+                    <li><span class="list-secondary-item">Tenis stołowy</span></li>
+                </ul>
+            </div>
+
+            <div class="tech-skills-block">
+                <h2 class="header-secondary">Dyplomy</h2>
+                <ul class="list-secondary">
+                    <li><span class="list-secondary-item">Aplikacje mobilne</span></li>
+                    <li><span class="list-secondary-item">Wstęp do programowania</span></li>
+                    <li><span class="list-secondary-item">Planowanie własnej kariery zawodowej</span></li>
+                    <li><span class="list-secondary-item">Techniki sprzedaży</span></li>
+                    <li><span class="list-secondary-item">Media społecznościwe w biznesie</span></li>
+                    <li><span class="list-secondary-item">Umiejętności kierownicze</span></li>
+                    <li><span class="list-secondary-item">Umiejętności interpersonalne</span></li>
+                    <li><span class="list-secondary-item">Jak założyć własną firmę?</span></li>
+                    <li><span class="list-secondary-item">Tworzenie biznes planu</span></li>
+                    <li><span class="list-secondary-item">Tworzenie zasobów informatycznych i dzielenie się nimi</span></li>
+                </ul>
+            </div>
+
+        </aside>
+        
+    </div>
+    </body>
+
+</html>
